@@ -1,0 +1,6 @@
+Amir,50
+Mahsa,90
+Reza,30
+Amin,10
+Zahra,95
+Mohammad,70
